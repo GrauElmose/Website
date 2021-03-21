@@ -1,1 +1,0 @@
-Speedtest to Zing Graph
