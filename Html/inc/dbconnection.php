@@ -7,8 +7,8 @@ function OpenDB()
 	//Constants
 	$dbhost = "db.grauelmose.home";
 	$dbuser = "root";
-	$dbpass = "#Nmwlelqa01#";
-	$db = "grauelmose";
+	$dbpass = "password";
+	$db = "database";
 		
 	$conn = new mysqli($dbhost, $dbuser, $dbpass, $db);
 	
